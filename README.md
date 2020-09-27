@@ -8,7 +8,7 @@ This is a test repository:
  - Compilation and upload blinking and empty sketch -> OK.
  - Testing on Arduino IDE V1.8.13 in minor versions it could give an error.
 
-# PREREQUISITES
+# REQUIREMENTS
 You must have version 1.8 of the Arduino IDE installed. You can download it from https://www.arduino.cc/en/Main/Software
 If you are on Windows, you must download and install the CH340/CH341 driver to communicate with the board via USB from http://www.wch.cn/download/CH341SER_EXE.html
 
