@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "wavgat",
-          "architecture": "avr",
+          "architecture": "wavgat",
           "version": "0.0.1",
           "category": "wavgat",
           "help": {
