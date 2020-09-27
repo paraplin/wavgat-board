@@ -1,0 +1,35 @@
+{
+  "packages": [
+    {
+      "name": "wavgat",
+      "maintainer": "paraplin",
+      "websiteURL": "https://github.com/paraplin/wavgat-board",
+      "email": "duernu@hotmail.com",
+      "help": {
+        "online": "https://github.com/paraplin/wavgat-board"
+      },
+      "platforms": [
+        {
+          "name": "wavgat",
+          "architecture": "avr",
+          "version": "0.0.1",
+          "category": "wavgat",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/paraplin/wavgat-board/raw/master/wavgat-0.0.1.zip",
+          "archiveFileName": "wavgat-0.0.1.zip",
+          "checksum": "SHA-256:171a21f490b0ae9dc4110e8c7bf1a24d801cb3e11ab97d343b7010146932a6e5",
+          "size": "180143",
+          "boards": [
+            {"name": "WAVGAT UNO R3"},
+            {"name": "WAVGAT NANO 3.0"},
+            {"name": "WAVGAT Pro Mini"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
