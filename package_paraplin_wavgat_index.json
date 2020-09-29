@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/paraplin/wavgat-board/raw/master/wavgat-0.0.1.zip",
           "archiveFileName": "wavgat-0.0.1.zip",
-          "checksum": "SHA-256:ffdc2f6c3fd0b0bcaf7a79ad31abcc7d192e75b66fa9837b551ebce932fed3a9",
-          "size": "183242",
+          "checksum": "SHA-256:4ed1376589bddf3fea56e057362c4696c1b5b4c2ab9074cc99a4ac276a1e6b22",
+          "size": "416315",
           "boards": [
             {"name": "WAVGAT UNO R3"},
             {"name": "WAVGAT NANO 3.0"},
