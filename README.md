@@ -4,12 +4,12 @@ Adding WAVGAT boards to the Arduino IDE via board manager:
  - WAVGAT NANO 3.0
  - WAVGAT Pro Mini
 
-I downloaded the official WAVGAT drivers from https://drive.google.com/open?id=10gwrG9uTDwaEO-7EudsmBkfgdcyrcABI and restructured them to use it with the board manager.
+I downloaded the official WAVGAT drivers from https://drive.google.com/open?id=10gwrG9uTDwaEO-7EudsmBkfgdcyrcABI and restructured them to use it with the board manager, but I had a problem with the Ethernet library. Then I found this repository https://github.com/LGTMCU/Larduino_HSP, I did the same and It works!
 
 Actually this is a test repository:
  - Checked on debian buster (10.6 / 32 and 64 bits).
  - Tested on Arduino IDE V1.8.13 (version lower than V1.6.7 it should give an error).
- - Compilation and upload empty, blinking and servo sketch examples -> OK.
+ - Compilation and upload empty, blinking, servo an ethernet sketch examples -> OK.
 
 # REQUIREMENTS
 You must have installed at least Arduino IDE V1.6.7. You can download it from https://www.arduino.cc/en/Main/Software
