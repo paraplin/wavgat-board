@@ -3,11 +3,10 @@ Adding WAVGAT boards to the Arduino IDE via board manager.
 
 I downloaded the official WAVGAT drivers from https://drive.google.com/open?id=10gwrG9uTDwaEO-7EudsmBkfgdcyrcABI and restructured them for use with the board manager.
 
-This is a test repository:
+Actually this is a test repository:
  - Checked in Arduino IDE V1.8.13 on debian 10.6 (buster) 32 and 64 bits.
  - Testing on Arduino IDE V1.8.13 (Versions lower than V1.6.7 it should give an error).
- - Compilation and upload blinking and empty sketch -> OK.
-
+ - Compilation and upload empty, blinking and servo sketch examples -> OK.
 
 # REQUIREMENTS
 You must have version 1.8 of the Arduino IDE installed. You can download it from https://www.arduino.cc/en/Main/Software
