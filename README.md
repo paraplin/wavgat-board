@@ -15,6 +15,6 @@ If you are on Windows, you must download and install the CH340/CH341 driver to c
 
 # INSTALLATION
  - Start Arduino IDE and open "Preferences" window from "File" menu.
- - Go to "Additional Board Manager URLs" field add this url https://github.com/paraplin/wavgat-board/raw/master/package_paraplin_wavgat_index.json and press OK.
+ - Go to "Additional Board Manager URLs" field add this url https://raw.githubusercontent.com/paraplin/wavgat-board/master/package_paraplin_wavgat_index.json and press OK.
  - Go to "Tools" menu and select "Open Boards Manager". In the new window install wavgat platform.
  - Go to "Tools" menu and go to "board" submenu. Select your correct board in WAVGAT section.
