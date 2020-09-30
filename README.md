@@ -20,3 +20,7 @@ If you are on Windows, you must download and install the CH340/CH341 driver to c
  - Go to "Additional Board Manager URLs" field add this url https://raw.githubusercontent.com/paraplin/wavgat-board/master/package_paraplin_wavgat_index.json and press OK.
  - Go to "Tools" menu and select "Open Boards Manager". In the new window install wavgat platform.
  - Go to "Tools" menu and go to "board" submenu. Select your correct board in "WAVGAT boards" section.
+
+# ISSUES
+ - Compilation errors can be lead because it use some different libraries than Arduino, for example, with MFRC522 access control sketch: 'class EEPROMClass' has no member named 'length' and this happens because the EEPROM library from Arduino is different than the WAVGAT board uses.
+ - My english is very poor ;).
