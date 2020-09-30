@@ -8,11 +8,11 @@ I downloaded the official WAVGAT drivers from https://drive.google.com/open?id=1
 
 Actually this is a test repository:
  - Checked on debian buster (10.6 / 32 and 64 bits).
- - Tested on Arduino IDE V1.8.13 (version lower than V1.6.7 it should give an error).
+ - Tested on Arduino IDE V1.8.13 (version lower than V1.6.18 it should give an error).
  - Compilation and upload empty, blinking, servo an ethernet sketch examples -> OK.
 
 # REQUIREMENTS
-You must have installed at least Arduino IDE V1.6.7. You can download it from https://www.arduino.cc/en/Main/Software
+You must have installed at least Arduino IDE V1.6.18. You can download it from https://www.arduino.cc/en/Main/Software
 If you are on Windows, you must download and install the CH340/CH341 driver to communicate with the board via USB from http://www.wch.cn/download/CH341SER_EXE.html
 
 # INSTALLATION
